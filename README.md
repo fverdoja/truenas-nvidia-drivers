@@ -26,8 +26,8 @@ The build artifacts have been uploaded to the Cloudflare R2 storage. Public acce
 example:
 
 ```shell
-# 25.10.3.1
-wget -O /tmp/nvidia.raw https://truenas-drivers.zhouyou.info/25.10.3.1/nvidia.raw
+# 25.10.4
+wget -O /tmp/nvidia.raw https://truenas-drivers.zhouyou.info/25.10.4/nvidia.raw
 
 # 25.10.5
 wget -O /tmp/nvidia.raw https://truenas-drivers.zhouyou.info/25.10.5/nvidia.raw
@@ -40,9 +40,9 @@ wget -O /tmp/nvidia.raw https://truenas-drivers.zhouyou.info/26.0.0-BETA.2/nvidi
 
 ```shell
 .
-├── 25.10.3.1
-│   ├── TrueNAS-SCALE-25.10.3.1.update
-│   ├── TrueNAS-SCALE-25.10.3.1.update.sha256
+├── 25.10.4
+│   ├── TrueNAS-SCALE-25.10.4.update
+│   ├── TrueNAS-SCALE-25.10.4.update.sha256
 │   ├── nvidia.raw
 │   └── nvidia.raw.sha256
 ├── 25.10.5
